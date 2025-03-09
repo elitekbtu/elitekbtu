@@ -5,6 +5,10 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elitekbtu&label=Profile%20views&color=0e75b6&style=flat" alt="elitekbtu" /> 
+</p>
+
 - 🔭 I’m currently working on **Enjoy**
 
 - 🌱 I’m currently learning **React, ML**
@@ -75,12 +79,3 @@
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elitekbtu&theme=radical" alt="GitHub Contributions" />
 </p>
-
-
-
-
-<p align="center"> 
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="100"/>
-</p>
-
-Thanks for stopping by! Feel free to explore my repositories and get in touch.
