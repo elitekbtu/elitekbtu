@@ -2,7 +2,7 @@
 <h3 align="center">Future Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
 </p>
 
 - 🔭 I’m currently working on **Enjoy**
@@ -91,7 +91,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43K/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="100"/>
 </p>
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch.
