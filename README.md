@@ -76,19 +76,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elitekbtu&theme=radical" alt="GitHub Contributions" />
 </p>
 
-<h3 align="left">Recent Activity:</h3>
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#123](https://github.com/owner/repo/pull/123) in [owner/repo](https://github.com/owner/repo)
-2. 🗣 Commented on [#456](https://github.com/owner/repo/issues/456) in [owner/repo](https://github.com/owner/repo)
-3. ❗️ Closed issue [#789](https://github.com/owner/repo/issues/789) in [owner/repo](https://github.com/owner/repo)
-<!--END_SECTION:activity-->
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-- [Project 1](https://github.com/yourusername/project1): Brief description of Project 1
-- [Project 2](https://github.com/yourusername/project2): Brief description of Project 2
-- [Project 3](https://github.com/yourusername/project3): Brief description of Project 3
-</p>
+
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="100"/>
