@@ -2,22 +2,22 @@
 <h3 align="center">Future Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=elitekbtu&label=Profile%20views&color=0e75b6&style=flat" alt="elitekbtu" /> 
 </p>
 
 - 🔭 I’m currently working on **Enjoy**
 
-- 🌱 I’m currently learning **React, ML**
+- 🌱 I’m currently learning **Angular, Laravel**
 
 - 👯 I’m looking to collaborate on **FAANG**
 
 - 🤝 I’m looking for help with **IT students**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **Python, PHP, JavaScript**
 
 <p align="left">
 </p>
