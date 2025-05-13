@@ -1,81 +1,85 @@
-<h1 align="center">Hi 👋, I'm Turarbek</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Turarbek</span></h1>
+<h3 align="center">🚀 Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://komarev.com/ghpvc/?username=elitekbtu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="elitekbtu" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=elitekbtu&label=Profile%20views&color=0e75b6&style=flat" alt="elitekbtu" /> 
+---
+
+## 🔭 Currently Working At
+
+- 🧑‍💻 **Role**: Developer
+- 🏢 **Company**: Enjoy
+- 🌍 **Location**: Almaty, Kazakhstan
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <th>Frontend</th>
+    <td>React, Angular</td>
+  </tr>
+  <tr>
+    <th>Backend</th>
+    <td>Node.js, Laravel, Django</td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>PostgreSQL, MySQL, SQLite</td>
+  </tr>
+  <tr>
+    <th>DevOps</th>
+    <td>Docker, Kubernetes, AWS</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Tools & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,laravel,django,docker,kubernetes,aws,postgres,mysql,sqlite" alt="Tech Stack Icons" />
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🔭 I’m currently exploring **serverless architectures** and **AI integrations**
+- 🌱 Constantly learning and improving my skills
+- 💬 Ask me about **web development**, **API design**
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/turarbek-satbaldiyev-78045a307/)
+- ⚡ Fun fact: I love solving coding puzzles and contributing to open-source!
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elitekbtu&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitekbtu&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/elitekbtu"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/turarbek-satbaldiyev-78045a307/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-- 🔭 I’m currently working on **Enjoy**
+---
 
-- 🌱 I’m currently learning **Angular, Laravel**
+## 🧩 Fun & Extras
 
-- 👯 I’m looking to collaborate on **FAANG**
+<details>
+  <summary>💡 GitHub Profile Trophy</summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=elitekbtu&theme=onedark&margin-w=10&row=2&column=3" alt="Trophies" />
+  </p>
+</details>
 
-- 🤝 I’m looking for help with **IT students**
-
-- 💬 Ask me about **Python, PHP, JavaScript**
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=elitekbtu&show_icons=true&theme=radical" alt="elitekbtu's GitHub stats" />
-</p>
-
-<h3 align="left">Top Languages:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitekbtu&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<h3 align="left">GitHub Streak:</h3>
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elitekbtu&theme=radical" alt="GitHub Contributions" />
-</p>
