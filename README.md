@@ -9,8 +9,8 @@
 
 ## 🔭 Currently Working At
 
-- 🧑‍💻 **Role**: Full-stack Developer
-- 🏢 **Company**: Enjoy
+- 🧑‍💻 **Role**: Full-Stack Developer  
+- 🏢 **Company**: Enjoy  
 - 🌍 **Location**: Almaty, Kazakhstan
 
 ---
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <th>Backend</th>
-    <td>Node.js, Laravel, Django, FastAPI, Next, Redis, Celery</td>
+    <td>Node.js, Laravel, Django, FastAPI, Next.js, Redis, Celery</td>
   </tr>
   <tr>
     <th>Databases</th>
@@ -41,17 +41,18 @@
 ## 🚀 Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,laravel,django,fastapi,nextjs" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,laravel,django,fastapi,nextjs" alt="Frontend & Backend" />
   <br>
-  <img src="https://skillicons.dev/icons?i=redis,celery,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=redis,celery,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure" alt="Other Tools" />
 </div>
+
 ---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently exploring **serverless architectures** and **AI integrations**
+- 🏗️ I’m currently exploring **serverless architectures** and **AI integrations**
 - 🌱 Constantly learning and improving my skills
-- 💬 Ask me about **web development**, **API design**
+- 💬 Ask me about **web development** and **API design**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/turarbek-satbaldiyev-78045a307/)
 - ⚡ Fun fact: I love solving coding puzzles and contributing to open-source!
 
@@ -75,11 +76,18 @@
 
 ---
 
-## 🧩 Fun & Extras
+## 🏆 GitHub Profile Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elitekbtu&theme=onedark&margin-w=10&row=2&column=3" alt="Trophies" />
+</div>
+
+---
 
 <details>
-  <summary>💡 GitHub Profile Trophy</summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=elitekbtu&theme=onedark&margin-w=10&row=2&column=3" alt="Trophies" />
-  </p>
+  <summary>💡 Fun & Extras</summary>
+  <ul>
+    <li>Always up for a coding challenge!</li>
+    <li>Passionate about open-source.</li>
+  </ul>
 </details>
