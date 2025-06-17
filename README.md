@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <th>DevOps</th>
-    <td>Docker, Kubernetes, AWS, Azure, Digital Ocean</td>
+    <td>Docker, Kubernetes, AWS, Azure</td>
   </tr>
 </table>
 
@@ -41,11 +41,10 @@
 ## 🚀 Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=redis,celery,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure,digitalocean" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,laravel,django,fastapi,nextjs" alt="Tech Stack Icons" />
   <br>
-  <img src="https://skillicons.dev/icons?i=redis,celery,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure,digitalocean" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=redis,celery,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure" alt="Tech Stack Icons" />
 </div>
-
 ---
 
 ## 🧠 About Me
