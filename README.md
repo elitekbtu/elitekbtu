@@ -40,10 +40,11 @@
 
 ## 🚀 Tools & Technologies
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,laravel,django,fastapi,nextjs" alt="Frontend & Backend" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=redis,celery,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure" alt="Other Tools" />
+### <img src="https://twemoji.maxcdn.com/v/latest/svg/1f680.svg" width="20" valign="middle"/> Tools & Technologies
+
+<div align="center" style="margin-bottom: 12px;">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,laravel,django,fastapi,nextjs" alt="Frontend & Backend" style="margin-right:8px;"/>
+  <img src="https://skillicons.dev/icons?i=redis,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure" alt="Other Tools" style="margin-right:8px;"/>
 </div>
 
 ---
