@@ -40,8 +40,6 @@
 
 ## 🚀 Tools & Technologies
 
-### <img src="https://twemoji.maxcdn.com/v/latest/svg/1f680.svg" width="20" valign="middle"/> Tools & Technologies
-
 <div align="center" style="margin-bottom: 12px;">
   <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,laravel,django,fastapi,nextjs" alt="Frontend & Backend" style="margin-right:8px;"/>
   <img src="https://skillicons.dev/icons?i=redis,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure" alt="Other Tools" style="margin-right:8px;"/>
@@ -55,7 +53,6 @@
 - 🌱 Constantly learning and improving my skills
 - 💬 Ask me about **web development** and **API design**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/turarbek-satbaldiyev-78045a307/)
-- ⚡ Fun fact: I love solving coding puzzles and contributing to open-source!
 
 ---
 
@@ -74,21 +71,3 @@
   <a href="https://github.com/elitekbtu"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/turarbek-satbaldiyev-78045a307/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elitekbtu&theme=onedark&margin-w=10&row=2&column=3" alt="Trophies" />
-</div>
-
----
-
-<details>
-  <summary>💡 Fun & Extras</summary>
-  <ul>
-    <li>Always up for a coding challenge!</li>
-    <li>Passionate about open-source.</li>
-  </ul>
-</details>
