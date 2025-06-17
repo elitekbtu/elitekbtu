@@ -61,6 +61,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elitekbtu&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitekbtu&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elitekbtu&theme=tokyonight&hide_border=true" width="95%" />
 </div>
 
 ---
@@ -71,3 +73,17 @@
   <a href="https://github.com/elitekbtu"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/turarbek-satbaldiyev-78045a307/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
+
+<details>
+  <summary>💡 Fun & Extras</summary>
+  <ul>
+    <li>Always up for a coding challenge!</li>
+    <li>Passionate about open-source.</li>
+  </ul>
+  <br>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=elitekbtu&theme=onedark&margin-w=10&row=2&column=3" alt="Trophies" />
+  </div>
+</details>
