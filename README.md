@@ -58,12 +58,16 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elitekbtu&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitekbtu&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elitekbtu&theme=tokyonight&hide_border=true" width="45%" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=elitekbtu&show_icons=true&theme=tokyonight&hide_border=true" width="31%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitekbtu&layout=compact&theme=tokyonight&hide_border=true" width="31%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elitekbtu&theme=tokyonight&hide_border=true" width="31%" />
 </div>
+
+<!-- 
+Reference image for layout: 
+![image2](image2)
+-->
 
 ---
 
@@ -78,6 +82,10 @@
 
 <details>
   <summary>💡 Fun & Extras</summary>
+  <ul>
+    <li>Always up for a coding challenge!</li>
+    <li>Passionate about open-source.</li>
+  </ul>
   <br>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=elitekbtu&theme=onedark&margin-w=10&row=2&column=3" alt="Trophies" />
