@@ -41,7 +41,9 @@
 ## 🚀 Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,nodejs,laravel,django,fastapi,nextjs,redis,celery,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure,digitalocean" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=redis,celery,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure,digitalocean" alt="Tech Stack Icons" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=redis,celery,postgres,mysql,sqlite,mongodb,docker,kubernetes,aws,azure,digitalocean" alt="Tech Stack Icons" />
 </div>
 
 ---
