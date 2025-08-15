@@ -10,7 +10,7 @@
 ## 🔭 Currently Working At
 
 - 🧑‍💻 **Role**: Full-Stack Developer  
-- 🏢 **Company**: Enjoy  
+- 🏢 **Company**: Meta Accelerator, jasprep.kz  
 - 🌍 **Location**: Almaty, Kazakhstan
 
 ---
