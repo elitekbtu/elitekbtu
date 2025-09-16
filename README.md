@@ -62,6 +62,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=elitekbtu&show_icons=true&theme=tokyonight&hide_border=true" width="31%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitekbtu&layout=compact&theme=tokyonight&hide_border=true" width="31%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elitekbtu&theme=tokyonight&hide_border=true" width="31%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elitekbtu&theme=github-compact" height="150"/>
+
+
 </div>
 
 <!-- 
