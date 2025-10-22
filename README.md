@@ -10,7 +10,7 @@
 ## 🔭 Currently Working At
 
 - 🧑‍💻 **Role**: Full-Stack Developer  
-- 🏢 **Company**: Meta Accelerator, jasprep.kz  
+- 🏢 **Company**: on.ai, jasprep.kz  
 - 🌍 **Location**: Almaty, Kazakhstan
 
 ---
