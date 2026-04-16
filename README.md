@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Professional Profile
 
-- 🏢 **Current Role**: Backend Developer at **jasprep.kz**
+- 🏢 **Current Role**: Backend Developer
 - 🌍 **Location**: Almaty, Kazakhstan
 - 🏗️ **Focus**: Serverless architectures, AI integrations, and High-load Systems
 - 💬 **Expertise**: Web Development, API Design
