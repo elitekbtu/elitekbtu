@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Turarbek</span></h1>
-<h3 align="center">🚀 Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elitekbtu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="elitekbtu" />
